@@ -1,1 +1,1 @@
-# Calculator-in-Cpp
+# Практика C++ Starter
