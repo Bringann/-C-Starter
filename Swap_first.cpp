@@ -11,8 +11,8 @@ int main()
 	cout << "a = " << a << ", b = " << b << endl;
 
 	temp = a;
-    a = b;
-    b = temp;
+        a = b;
+        b = temp;
 
 	cout << "После обмена: \n";
 	cout << "a = " << a << ", b = " << b << endl;
